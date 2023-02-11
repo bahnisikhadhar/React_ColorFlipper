@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_ColorFlipper/static/css/main.57732e79.css",
+    "main.js": "/React_ColorFlipper/static/js/main.f0fdd1f5.js",
+    "index.html": "/React_ColorFlipper/index.html",
+    "main.57732e79.css.map": "/React_ColorFlipper/static/css/main.57732e79.css.map",
+    "main.f0fdd1f5.js.map": "/React_ColorFlipper/static/js/main.f0fdd1f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57732e79.css",
+    "static/js/main.f0fdd1f5.js"
+  ]
+}
